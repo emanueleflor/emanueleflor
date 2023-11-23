@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/emanueleflordarosa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 <p>
   
-  <li>Atualmente estou aprendendo <br></li>li
+  <li>Atualmente estou aprendendo <br></li>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img loading="lazy"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img loading="lazy"          
