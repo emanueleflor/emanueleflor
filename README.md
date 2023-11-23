@@ -1,5 +1,4 @@
-<p>
-👋 Olá, me chamo Emanuele Flor da Rosa </br></p> 
+<h1>👋 Olá, me chamo Emanuele Flor da Rosa</h1>
 <p>
   <ul>
     <li>Atualmente estou cursando o 2º semestre de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná(UTFPR). Através deste pude adquirir 
