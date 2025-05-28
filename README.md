@@ -3,7 +3,6 @@
 
 <section>
   <div>
-    <h2>📚 Estudos</h2>
          Atualmente estou cursando o 6º semestre de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná (UTFPR). Além disso, trabalho na StartSe University como estagiária da squad Costumer Experience, atuando na identificação e resolução de bugs, redução de incidentes e participação no lançamento de novas funcionalidades.
     </div>
 </section>
